@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>- 💻 Passionate about **AI, deep learning, and full-stack development**  <br>- 🔥 Building **AI-powered projects & innovative platforms**  <br>- 🎯 Currently working on:  <br>  - **SkillSync** (AI-powered learning mentor) 📚  <br>  - **MentorConnect** (Connecting mentors with learners) 🤝  <br>  - **Job Market Platform** (Service-based job listing app) 💼  <br>
+#  About Me:
+<br>-Passionate about **AI, deep learning, and full-stack development**  <br>-  Building **AI-powered projects & innovative platforms**  <br>-  Currently working on:  <br>  - **SkillSync** (AI-powered learning mentor)  <br>  - **MentorConnect** (Connecting mentors with learners)   <br>  - **Job Market Platform** (Service-based job listing app)   <br>
 
 
 # 💻 Tech Stack:
