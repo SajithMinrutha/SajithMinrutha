@@ -18,7 +18,7 @@
 
   <!-- Tech Stack -->
 <!-- Tech Stack -->
-<h2 align="center">💻 Languages and Tools</h2>
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center">
   <!-- Languages -->
@@ -73,7 +73,7 @@
 
   <!-- GitHub Stats -->
   <h2 style="background: linear-gradient(90deg, #36BCF7, #7D5FFF); -webkit-background-clip: text; color: transparent; font-weight: 700;">
-    📊 GitHub Stats
+    GitHub Stats
   </h2>
 
   <p align="center">
