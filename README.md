@@ -77,7 +77,8 @@
   </h2>
 
   <p align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=SajithMinrutha&theme=tokyonight&hide_border=true&background=0d1117" />
+   <img src="https://nirzak-streak-stats.vercel.app/?user=SajithMinrutha&theme=tokyonight&hide_border=true&background=0d1117&include_all_commits=true" />
+
   </p>
 
   <br/>
