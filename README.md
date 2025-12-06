@@ -77,11 +77,6 @@
   </h2>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SajithMinrutha&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajithMinrutha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </p>
-
-  <p align="center">
     <img src="https://nirzak-streak-stats.vercel.app/?user=SajithMinrutha&theme=tokyonight&hide_border=true&background=0d1117" />
   </p>
 
